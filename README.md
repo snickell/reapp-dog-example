@@ -1,5 +1,3 @@
-This is the repository used to start new reapp apps from the CLI.
+Simple reapp example based on http://reapp.io/2015/03/11/Simplify-Flux-with-Immutable-js-and-Fynx/
 
-It's copied into a new folder when you run the command `reapp new`.
-
-To see more documentation on reapp, try [our getting started docs](http://reapp.io/start.html).
+...but it crashes.
