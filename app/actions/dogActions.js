@@ -11,7 +11,7 @@ Actions.loadDogs.listen(opts => {
 })
 
 Actions.reverseDogs.listen(() =>
-  store().update('dogs', dogs => dogs.reverse())
+  store().update('dogIds', dogs => dogs.reverse())
 );
 
 function getDogsData(res) {

@@ -13,6 +13,7 @@
   "dependencies": {
     "fynx": "^1.6.0",
     "immutable": "^3.6.4",
+    "omniscient": "^3.1.0",
     "react": "0.13.1",
     "react-router": "git+https://github.com/reapp/react-router#1d00e252",
     "reapp-component": "^1.0.0",
