@@ -22,6 +22,7 @@ var Dogs = React.createClass({
     storeRefreshMixin(Store),
   ],
   shouldComponentUpdate, // should this be here???
+  componentWillMount: Actions.loadDogs,
   render() {
     console.log("Dogs.render()");
 
